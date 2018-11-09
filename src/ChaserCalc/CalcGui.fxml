@@ -183,7 +183,7 @@
             </HBox>
             <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="20.0">
                <children>
-                  <Label style="-fx-background-color: white;" text="LED TIMER CALCULATOR" textFill="#f28304">
+                  <Label style="-fx-background-color: white;" text="CHASER CALCULATOR" textFill="#f28304">
                      <font>
                         <Font name="System Bold" size="20.0" />
                      </font>

@@ -74,7 +74,7 @@ public class ChaserCalc extends Application {
 //        grid.backgroundProperty();
         Scene scene = new Scene(root);
 //        scene.setb
-        primaryStage.setTitle("LED CALCULATOR");
+        primaryStage.setTitle("ChaserCalc");
         primaryStage.setScene(scene);
         primaryStage.show();
         primaryStage.setAlwaysOnTop(true);
