@@ -2,7 +2,7 @@
 
 A desktop application for simulating and calculating component values for common electronic DIY chasers. The app and UI is done in JAVA-FX. Although we have a compiled version, this is still a work in progress and some functions may still be lacking.
 
-##RUNNING THE APP
+## RUNNING THE APP
 1. You can run the code in your favourite JAVA editting software.
 2. Install version 1.0 as an exe for Windows or as a jar file wherever. Just make sure JRE is installed. The files can be found above as "Installers/ChaserCalc-1.0.exe" or "Installers/ChaserCalc.jar"
 
