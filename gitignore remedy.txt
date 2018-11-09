@@ -1,0 +1,12 @@
+Even if you haven't tracked the files so far, git seems to be able to "know" about them even after you add them to .gitignore.
+
+NOTE : First commit your current changes, or you will lose them.
+
+Then run the following commands from the top folder of your git repo:
+
+HOWTO
+1. In DesktopGithub, goto Repository -> Open in Command Prompt
+2. type each line below as is and enter
+git rm -r --cached .
+git add .
+git commit -m "fixed untracked files"
